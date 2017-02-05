@@ -1,0 +1,4 @@
+This is a text file
+\n this is a new line \n this is a second new line
+this is a third new line 
+ this is a fourth
